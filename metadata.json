@@ -1,0 +1,6 @@
+{
+  "name": "Guelboy AI",
+  "description": "Plataforma de inteligência artificial de futebol com análise tática, chat em tempo real com Google Gemini e dados de partidas do football-data.org.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
